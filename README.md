@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrUnknownProg  
 - 👀 I’m interested in applied Electronics & Robotics.
-- 🌱 I’m currently studying engineering in Electronics & Telecomunication.
+- 🌱 I’m currently studying engineering in Electronics & Telecommunication.
 - 💞️ I’m looking to collaborate on projects related to Climate Change/Make Life Easy/Drones/etc....
 - 📫 You can reach me through
 -     Email:-rutujrotkar@gamil.com
